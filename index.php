@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="container w-75">
-        <h1 class="my-4">Aplikasi Perpustakaan</h1>
+        <h1 class="my-4">APLIKASI PERPUSTAKAAN</h1>
 
         <a class="btn btn-primary" href="./buku.php">Lihat Daftar Buku</a>
         <br>
