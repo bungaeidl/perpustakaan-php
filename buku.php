@@ -42,7 +42,7 @@
         </table>
         <br>
         <a class="btn btn-primary" href="./tambah-buku.php">Tambah Data Buku</a>
-        <a class="btn btn-danger" href="./index.php">Kembali ke Halaman Utama</a>
+        <a class="btn btn-success" href="./index.php">Kembali ke Halaman Utama</a>
     </div>
 </body>
 </html>

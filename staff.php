@@ -32,7 +32,7 @@
                     <td><?php echo $staff["telp"] ?></td>
                     <td><?php echo $staff["email"] ?></td>
                     <td>
-                        <a class="btn btn-warning" href=<?php echo "edit-staff.php?id=" . $staff["id"] ?>>EDIT</a>
+                        <a class="btn btn-warning" href=<?php echo "edit-staff.php?id=" . $staff["id"] ?>>EDIT</a> |
                         <a class="btn btn-danger" href=<?php echo "delete-staff.php?id=" . $staff["id"] ?>>HAPUS</a>
                     </td>
                 </tr>
